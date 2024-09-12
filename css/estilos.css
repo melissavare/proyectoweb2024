@@ -16,5 +16,11 @@ h1{
 }
 .foto img{
     mix-blend-mode: lighten;
-    width: 200px;
+    transform: rotate(60deg);
+    width: 210px;
+}
+.mensaje{
+    color: white;
+    font-size: 32px;
+    text-align: center;
 }
