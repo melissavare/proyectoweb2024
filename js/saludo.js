@@ -4,6 +4,6 @@ if(!localStorage.nom){
     localStorage.nom=nombre;
     contenido.innerHTML="Hola "+nombre;
 }else{
-    contenido.innerHTML=localStorage.nom;
+    contenido.innerHTML="Soy la IA Hola "+localStorage.nom;
     
 }
