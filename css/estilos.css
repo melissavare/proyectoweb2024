@@ -1,0 +1,20 @@
+html, body{
+    height: 100%;
+    background:linear-gradient(rgb(237, 184, 238), white);
+}
+h1{
+    color:rgb(185, 79, 171);
+    font-family: comic sans ms;
+    font-style: italic;
+    letter-spacing: 1px;
+    text-align: center;
+    text-shadow: 0 0 0.10em purple;
+}
+.foto{
+    margin-top: 200px;
+    text-align: center;
+}
+.foto img{
+    mix-blend-mode: lighten;
+    width: 200px;
+}
